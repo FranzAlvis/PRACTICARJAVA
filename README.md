@@ -1,19 +1,19 @@
 # PRACTICAR JAVA
 practicando ando
--- comando para clonar el repositorio
+- comando para clonar el repositorio
 git clone (url del git)
--- comando para crearse una nueva rama
+- comando para crearse una nueva rama
 git checkout -b (nombre de rama)
--- comando para cambiar de rama
+- comando para cambiar de rama
 git checkout (nombre de la rama a la cual quieres cambiar)
--- para actualizar los cambios de otra persona
+- para actualizar los cambios de otra persona
 git pull
--- para unir ramas
+- para unir ramas
 git merge (rama la cual quieres)(rama actual)
--- para cambiar el nombre del ultimo commit
+- para cambiar el nombre del ultimo commit
 git commit --amend
 
-para hacer un commit con las buenas practicas de programacion es lo siguiente:
+-para hacer un commit con las buenas practicas de programacion es lo siguiente:
 
 feat: Una nueva característica para el usuario.
 fix: Arregla un bug que afecta al usuario.
