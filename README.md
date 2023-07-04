@@ -6,6 +6,8 @@ practicando ando
 <br>git checkout -b (nombre de rama)
 - comando para cambiar de rama
 <br>git checkout (nombre de la rama a la cual quieres cambiar)
+- comando para saber en que rama estas
+<br>git branch
 - para actualizar los cambios de otra persona
 <br>git pull
 - para unir ramas
